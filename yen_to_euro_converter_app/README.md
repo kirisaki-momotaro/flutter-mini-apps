@@ -1,3 +1,3 @@
 # currency_converter
-![screen1](screenshots/screen1.png)
-![screen2](screenshots/screen2.png)
+<img src="screenshots/screen1.png" alt="screen1" width="100">
+<img src="screenshots/screen2.png" alt="screen2" width="100">
