@@ -1,7 +1,5 @@
 # camera_app
-![screen1](screenshots/screen1.png){:width="100"}.
-![screen2](screenshots/screen2.png){:width="100"}.
-![screen3](screenshots/screen3.png){:width="100"}.
-![screen4](screenshots/screen4.png){:width="100"}.
-
-
+<img src="screenshots/screen1.png" alt="screen1" width="100">
+<img src="screenshots/screen2.png" alt="screen2" width="100">
+<img src="screenshots/screen3.png" alt="screen3" width="100">
+<img src="screenshots/screen4.png" alt="screen4" width="100">
